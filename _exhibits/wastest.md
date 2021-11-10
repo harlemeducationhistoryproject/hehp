@@ -3,7 +3,7 @@ layout: exhibit
 title: 'Barbara Wilson Brooks and Her Harlem Community'
 author: Nina Wasserman
 publish_date: 2016
-permalink: /exhibits/wasserman/
+permalink: /exhibits/wassermantest/
 ---
 <h2><strong>Introduction</strong></h2>
 
@@ -11,7 +11,7 @@ permalink: /exhibits/wasserman/
 
 This exhibit's main goal is to share Harlem resident Barbara Wilson-Brooks's account of her experiences as a student in East Harlem and Upper East Side schools from 1966 to 1979. Her memories and stories provide a rich, joyful portrait of Harlem schools that is not always evident in reports of the time period and scholarly works.
 
-{% include inline_image.html collection='exhibitimg' pid='was001' %}
+{% include inline_image.html collection='exh' pid='was001' %}
 [caption: Barbara Wilson-Brooks, 2015. Photograph by Nina Wasserman]
 
 Although the focus is on Wilson-Brooks and her view of her community, it is essential to put her experiences within the broader history of Harlem schools at that time. Wilson-Brooks attended elementary and middle schools in the Intermediate School (IS) 201 Demonstration District, including IS 201 itself. The demonstration district – an experiment in local community control of schools – was authorized by the Board of Education in 1967 and included IS 201 and its area elementary schools. In 1968, the conflict over community control led to a teachers’ strike and the closing of the city’s public schools for six weeks.

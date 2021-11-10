@@ -1,13 +1,11 @@
-title: Facets
-subtitle: A Jekyll theme for Wax sites
+title: Harlem Education History Project
+subtitle: *in transition*
 author:
   name: Wax user
-  email: your-email@domain.com
-description:
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/wax-facets"
+  email: harlemedhistory@tc.columbia.edu
+description: A collaborative investigation into schooling and learning in 20th century Harlem.
+
+baseurl: "/hehp"
 
 # --------------------------------------------------------------
 # COLLECTION SETTINGS
@@ -21,13 +19,13 @@ baseurl: "/wax-facets"
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+  exh: # name of collection
     output: true # makes sure pages are output as html files
-    layout: "qatar_item" # the layout for the pages to use
+    layout: "exh_item.html" # the layout for the pages to use
     metadata:
-      source: "qatar.csv" # path to the metadata file within `_data`
+      source: "exh.csv" # path to the metadata file within `_data`
     images:
-      source: "raw_images/qatar" # path to the directory of images within `_data`
+      source: "raw_images/exh" # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -67,6 +65,8 @@ menu:
         link: "/exhibits/references/"
       - label: "Subset Collection"
         link: "/exhibits/subset/"
+      - label: "Barbara Wilson-Brooks and Her Harlem Community"
+        link: "/exhibits/wasserman/"
   - label: "Browse"
     link: "/collection/"
   - label: "Search"
