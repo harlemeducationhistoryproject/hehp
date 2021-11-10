@@ -1,0 +1,81 @@
+I"6<p>This site’s sample collection comprises a set of objects, each of which is represented by one or more images. The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of <a href="https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar">WikiMedia</a> and <a href="https://www.google.com/culturalinstitute/about/artproject/">Google Art Project</a>) and The Qatar National Library (via <a href="https://www.wdl.org/en/">World Digital Library</a>).</p>
+
+<!--
+  If there are one or more facet_by field names, build a form at the top of the
+  page where each variable gets a set of checkboxes corresponding to
+  all of the possible values of that field.
+-->
+
+<form class="row" id="facets">
+  
+  <fieldset id="object-type-set" class="card m-1 facet-card">
+    <div class="card-header facet-header">
+      <a class="facet-bn" data-toggle="collapse" href="#object-type-collapse" role="button" aria-expanded="false" aria-controls="object-type-collapse">
+        <legend>
+          object type
+          <span class="facets-chevron facets-chevron-bottom float-right ml-2" aria-hidden="true"></span>
+        </legend>
+      </a>
+      
+    </div>
+    <div class="collapse" id="object-type-collapse">
+      <div class="card-body">
+        
+      </div>
+    </div>
+  </fieldset>
+  
+  <fieldset id="location-set" class="card m-1 facet-card">
+    <div class="card-header facet-header">
+      <a class="facet-bn" data-toggle="collapse" href="#location-collapse" role="button" aria-expanded="false" aria-controls="location-collapse">
+        <legend>
+          location
+          <span class="facets-chevron facets-chevron-bottom float-right ml-2" aria-hidden="true"></span>
+        </legend>
+      </a>
+      
+    </div>
+    <div class="collapse" id="location-collapse">
+      <div class="card-body">
+        
+      </div>
+    </div>
+  </fieldset>
+  
+</form>
+
+<!--
+  Build the gallery by iterating through items in the collection. If there are
+  facets specified, fine the items' values for those fields and add them as
+  classes to the gallery-item object. The classes are used by JavaScript
+  that reacts to changes to the checkbox filters.
+-->
+
+<div id="wax-gallery-qatar-container" class="wax-gallery-container full-width">
+  <div class="wax-inline-container">
+    <div id="wax-gallery-qatar" class="wax-gallery">
+      <div class="row">
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  $( document ).ready(function() {
+
+          console.log(["object_type","location"]) // liquid array of one or more fields for facetting
+
+          // This JavaScript controls the expanding and contracting facet headers.
+          // Additional JS for this page in assets/js/facets.js
+          $('.facet-bn[aria-expanded]').click(function(event){
+            $(this).parent().parent().toggleClass("active");
+            // this selector might return multiple elements
+            $(this).children('legend').children('.facets-chevron').toggleClass("facets-chevron-bottom facets-chevron-top");
+          });
+        
+
+  });
+</script>
+
+:ET

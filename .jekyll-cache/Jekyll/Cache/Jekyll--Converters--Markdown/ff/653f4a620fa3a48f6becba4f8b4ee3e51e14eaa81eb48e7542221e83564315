@@ -1,0 +1,23 @@
+I"•
+<div class="search-block">
+  <div class="input-group">
+    <input type="text" class="form-control" id="search" name="x" placeholder="Search... " />
+  </div>
+  <div id="results"></div>
+</div>
+
+<script type="text/javascript" src="/hehp/assets/js/elasticlunr.min.js"></script>
+
+<script type="text/javascript" src="/hehp/assets/js/search-ui.js"></script>
+
+<script type="text/javascript">
+  var fields    = ["artist","location","label","_date","object_type","current_location"];
+  var indexFile = "/hehp/search/index.json";
+  var url       = "/hehp/";
+  console.log(url);
+  $(document).ready(function() {
+    startSearchUI(fields, indexFile, url);
+  });
+</script>
+
+:ET
