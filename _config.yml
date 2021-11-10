@@ -1,5 +1,5 @@
 title: Harlem Education History Project
-subtitle: *in transition*
+subtitle: migration underway
 author:
   name: Wax user
   email: harlemedhistory@tc.columbia.edu
@@ -21,7 +21,7 @@ collections:
     output: true
   exh: # name of collection
     output: true # makes sure pages are output as html files
-    layout: "exh_item.html" # the layout for the pages to use
+    layout: "exh_item" # the layout for the pages to use
     metadata:
       source: "exh.csv" # path to the metadata file within `_data`
     images:
