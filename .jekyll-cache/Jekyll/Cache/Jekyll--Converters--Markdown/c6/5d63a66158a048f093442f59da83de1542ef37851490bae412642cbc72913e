@@ -1,111 +1,4 @@
-<!DOCTYPE html>
-<html lang="en"><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/hehp/assets/css/style.css">
-
-  <!-- FAVICONS & APPS -->
-  <link rel="apple-touch-icon" sizes="57x57" href="/hehp/assets/logo/apple-icon-57x57.png"/>
-  <link rel="apple-touch-icon" sizes="60x60" href="/hehp/assets/logo/apple-icon-60x60.png"/>
-  <link rel="apple-touch-icon" sizes="72x72" href="/hehp/assets/logo/apple-icon-72x72.png"/>
-  <link rel="apple-touch-icon" sizes="76x76" href="/hehp/assets/logo/apple-icon-76x76.png"/>
-  <link rel="apple-touch-icon" sizes="114x114" href="/hehp/assets/logo/apple-icon-114x114.png"/>
-  <link rel="apple-touch-icon" sizes="120x120" href="/hehp/assets/logo/apple-icon-120x120.png"/>
-  <link rel="apple-touch-icon" sizes="144x144" href="/hehp/assets/logo/apple-icon-144x144.png"/>
-  <link rel="apple-touch-icon" sizes="152x152" href="/hehp/assets/logo/apple-icon-152x152.png"/>
-  <link rel="apple-touch-icon" sizes="180x180" href="/hehp/assets/logo/apple-icon-180x180.png"/>
-  <link rel="shortcut icon" type="image/png" sizes="192x192"  href="/hehp/assets/logo/android-icon-192x192.png"/>
-  <link rel="shortcut icon" type="image/png" sizes="32x32" href="/hehp/assets/logo/favicon-32x32.png"/>
-  <link rel="shortcut icon" type="image/png" sizes="96x96" href="/hehp/assets/logo/favicon-96x96.png"/>
-  <link rel="shortcut icon" type="image/png" sizes="16x16" href="/hehp/assets/logo/favicon-16x16.png"/>
-  <link rel="manifest" href="/hehp/assets/logo/manifest.json"/>
-  <meta name="msapplication-TileColor" content="#ffffff"/>
-  <meta name="msapplication-TileImage" content="/assets/logo/ms-icon-144x144.png"/>
-  <meta name="theme-color" content="#ffffff"/>
-
-  <!-- SCRIPTS -->
-  <script type='text/javascript' src='/hehp/assets/js/jquery-3.5.1.min.js'></script>
-  
-  <script type='text/javascript' defer src='/hehp/assets/js/bootstrap/bootstrap.min.js'></script>
-  <noscript><p>Please enable JavaScript in your browser.</p></noscript>
-</head>
-<body><header class="site-header">
-    <nav class="navbar navbar-expand-md banner">
-        <a class="title navbar-brand" rel="author" href="/hehp/">Harlem Education History Project</a>
-        <span class="subtitle navbar-text">migration underway</span>
-  <!-- Collapse button -->
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent15"
-    aria-controls="navbarSupportedContent15" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon">&#9776;</span></button>
-
-  <!-- Collapsible content -->
-        <div class="collapse navbar-collapse" id="navbarSupportedContent15">
-                
-    <!-- Links -->
-            <ul class="navbar-nav ml-auto">
-            
-                
-                <li class='nav-item dropdown'>
-                <a class='nav-link dropdown-toggle' href='#' id='wax-exhibits-dropdown' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
-                Exhibits
-                </a>
-                <div class='dropdown-menu' aria-labelledby='wax-exhibits-dropdown'>
-                
-                <a class='dropdown-item' href='/hehp/exhibits/parallax/'>Parallax Images</a>
-                
-                <a class='dropdown-item' href='/hehp/exhibits/references/'>Image References</a>
-                
-                <a class='dropdown-item' href='/hehp/exhibits/subset/'>Subset Collection</a>
-                
-                <a class='dropdown-item' href='/hehp/exhibits/wasserman/'>Barbara Wilson-Brooks and Her Harlem Community</a>
-                
-                </div>
-                </li>
-                
-            
-                
-                <li class='nav-item'>
-                    <a class='nav-link' href='/hehp/collection/'>Browse</a>
-                </li>
-                
-            
-                
-                <li class='nav-item'>
-                    <a class='nav-link' href='/hehp/search/'>Search</a>
-                </li>
-                
-            
-                
-                <li class='nav-item'>
-                    <a class='nav-link' href='/hehp/learning/'>How To</a>
-                </li>
-                
-            
-                
-                <li class='nav-item'>
-                    <a class='nav-link' href='/hehp/about/'>About</a>
-                </li>
-                
-                            
-            </ul>
-        </div>
-    </nav>
-</header>
-<main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <div class="row">
-          <div class="col-lg-8 col-md-10 mx-auto">
-        <div class='exhibit-meta'>
-  <h1 class='exhibit-title'>Barbara Wilson-Brooks and Her Harlem Community</h1>
-  <h3 class='exhibit-author'>by Nina Wasserman</h3>
-  <p class='exhibit-date' >Published on
-    <time datetime='2016-01-01T00:00:00-05:00'>
-    Friday, January 01, 2016
-    </time>
-  </p>
-</div>
-
-<h2><strong>Introduction</strong></h2>
+I"�u<h2><strong>Introduction</strong></h2>
 
 <p>​In the history of education in Harlem, students are portrayed in a number of different ways. They have been described as helpless, damaged, underserved, or deserving better. Regardless of the range of words used to talk about and understand the experiences of students in Harlem, it is rare to hear about schooling from the student’s perspective.</p>
 
@@ -192,8 +85,7 @@
 
 <p>Wilson-Brooks has many fond memories of PS 133 and her teachers. Out of her entire schooling experience, her memories from PS 133 are the strongest even though they are her most distant school memories. She remembers all of her teachers and has a story about each one. Wilson-Brooks’s stories present a dynamic, caring, and close-knit school community that are best heard in her own voice. Some accounts that stand out are the way that Wilson-Brooks remembers Ms. Steinberg’s hugs and the smell of her perfume, Ms. Burrell’s strict yet caring demeanor, Ms. George’s love of opera, and the first time that Wilson-Brooks saw Ms. Chandler wear pants. To be immersed in Wilson-Brooks’s memories, listen to the audio clip below. This clip is long, but the stories are entertaining and Wilson-Brooks is an engaging speaker.</p>
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1157641864&amp;color=%23090808&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=false"></iframe>
-<div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-659170739-468288682" title="HEHP" target="_blank" style="color: #cccccc; text-decoration: none;">HEHP</a> · <a href="https://soundcloud.com/user-659170739-468288682/wilson-brooks_ps-133-memories" title="Wilson-Brooks_PS 133 memories" target="_blank" style="color: #cccccc; text-decoration: none;">Wilson-Brooks_PS 133 memories</a></div>
+<p>[CLIP here]</p>
 
 <h2><strong>Learning Outside of the Classroom</strong></h2>
 
@@ -217,17 +109,6 @@
 <h2><strong>PS 31</strong></h2>
 
 <p>Barbara Wilson-Brooks attended PS 31 only from 1972 to 1973, for sixth grade. After Wilson-Brooks graduated from PS 133, her mother did not want her to go to IS 201. After seeing and reading about protests at the school, she was concerned, as her daughter recalled, that “Oh, there’s so much going on with that school. It’s too bad!”  To avoid attending for as long as possible, her mother sent her to PS 31 - not a feeder school for IS 201.</p>
-
-<div class="inline-image-reference">
-  <a href="/hehp/exh/was008.html">
-    <img src="/hehp/img/derivatives/simple/was008/fullwidth.jpg" alt="Map identifying the site of the former PS 31 in East Harlem" width="100%" />
-  </a>
-  
-  <p class="image-caption">
-    Above: <a href="/hehp/exh/was008.html" width="100%">Map identifying the site of the former PS 31 in East Harlem</a>
-  </p>
-  
-</div>
 
 <p>Although PS 31 does not figure as prominently in Wilson-Brooks’s memories as PS 133, she remembers PS 31 as a good school with many opportunities to pursue, including art and music. Additionally, Wilson-Brooks remembers PS 31 as a school that taught students to think beyond the school curriculum and to consider what was going on in the world.</p>
 
@@ -290,34 +171,19 @@
 
 <h2><strong>Family Academy (PS 241)</strong></h2>
 
-<div class="inline-image-reference">
-  <a href="/hehp/exh/was011.html">
-    <img src="/hehp/img/derivatives/simple/was011/fullwidth.jpg" alt="Map identifying the site of the former PS 241, Family Academy" width="100%" />
-  </a>
-  
-  <p class="image-caption">
-    Above: <a href="/hehp/exh/was011.html" width="100%">Map identifying the site of the former PS 241, Family Academy</a>
-  </p>
-  
-</div>
-
 <p>Barbara Wilson-Brooks remembered that her teachers often told her, “Always come back to your community in some way. Find a way to come back and serve your community.” Although Wilson-Brooks may not have come back to the specific neighborhood she grew up in, she stayed committed to the broader Harlem community and pursued a career in education, serving and supporting her community the way she was served and supported when she was a student. From 2002-2004, for example, Wilson-Brooks worked as the executive assistant to the principal of Family Academy, an elementary school in Harlem, and she currently works in the Office of Teacher Education at Teachers College, Columbia University, supporting teachers-in-training as they receive certification.</p>
 
 <p>Throughout her career, Barbara Wilson-Brooks has held positions at community organizations and city departments, including the Upper Manhattan Empowerment Zone, the New York City Department of Education, and the New York City Department of Housing Preservation and Development.</p>
 
 <p>While working at Family Academy, Barbara learned about how public schools worked and also gained a new appreciation for her teachers. During an interview with Barbara, she repeatedly said that she wished she could give the kind of education she received to children today. In some ways, her work at Family Academy and other educational institutions, has allowed her to do so. In the following clip about her experience at Family Academy, one of the first words she uses to describe her work is exciting. Despite the bureaucracy and challenges she dealt with, Barbara still viewed the school environment as exciting.</p>
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1157641873&amp;color=%23090808&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=false"></iframe>
-<div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-659170739-468288682" title="HEHP" target="_blank" style="color: #cccccc; text-decoration: none;">HEHP</a> · <a href="https://soundcloud.com/user-659170739-468288682/wilson-brooks_ps-241" title="Wilson-Brooks_PS 241 perspective" target="_blank" style="color: #cccccc; text-decoration: none;">Wilson-Brooks_PS 241 perspective</a></div>
+<p>[CLIP]</p>
 
 <p>Wilson-Brooks worked at Family Academy in the years in which several of the decentralization reforms put in place during her elementary schooling came to an end, as Mayor Bloomberg (with state approval) re-centralized the New York City school system. As a student, her community fought to gain control and direction of its students’ education in local schools, eventually forming the IS 201 Demonstration District. In 1971, the demonstration district dissolved, but local school boards kept in place some local “decentralized” control of schools.  Decentralization lasted until 2002. Under decentralization, Family Academy developed its own curriculum. The school raised money to supplement its budget from the city. The students largely came from low-income families, and teachers, administrators, counselors, and social workers believed in all students’ abilities and often advocated on their behalf. The school also extended classes and services to families. In Wilson-Brooks’ view, re-centralization under Mayor Bloomberg brought a more standardized curriculum, and Family Academy lost the autonomy it had enjoyed before. To learn more about Family Academy, see this New York Times article.</p>
 
 <h2><strong>Today</strong></h2>
 
 <p>Barbara Wilson-Brooks still lives in Harlem, just blocks from her childhood home. She and her family love Harlem and plan to stay. Wilson-Brooks is committed to being a member of her community and to helping address the issues facing it, including education and poverty. She notices the changes that have been taken place in Harlem and appreciates what she calls the increasing diversity visible today. While she believes that hospitals and services are improving, she knows there are still many issues that her community must work on together. Today, Wilson-Brooks works at Teachers College, supporting teachers-in-training as they receive certification, and as Wilson-Brooks sees it, providing schools with the best teachers possible. To hear more about Wilson-Brooks’s love of Harlem, listen to the clip below.</p>
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1157641891&amp;color=%23090808&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=false"></iframe>
-<div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-659170739-468288682" title="HEHP" target="_blank" style="color: #cccccc; text-decoration: none;">HEHP</a> · <a href="https://soundcloud.com/user-659170739-468288682/wilson-brooks_loves-harlem" title="Wilson-Brooks_loves Harlem today" target="_blank" style="color: #cccccc; text-decoration: none;">Wilson-Brooks_loves Harlem today</a></div>
 
 <h2><strong>Reflection</strong></h2>
 
@@ -333,22 +199,4 @@
 <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-659170739-468288682" title="HEHP" target="_blank" style="color: #cccccc; text-decoration: none;">HEHP</a> · <a href="https://soundcloud.com/user-659170739-468288682/oral-history-of-barbara-wilson" title="Oral History of Barbara Wilson-Brooks" target="_blank" style="color: #cccccc; text-decoration: none;">Oral History of Barbara Wilson-Brooks</a></div>
 
 <p>To learn more about the IS 201 Demonstration District, other demonstration districts, and the 1968 strike, read Diane Ravitch’s The Great School Wars: A History of the New York City Public Schools (Basic Books, 1985) and Heather Lewis’s New York City Public Schools from Brownsville to Bloomberg: Community Control and its Legacy (Teachers College Press, 2013).</p>
-
-
-          </div>
-        </div>
-      </div>
-    </main><footer class="banner text-center">
-  <div class="container p-2">
-    <div class="row">
-      <div class="col-lg-6">
-        <p>Example License Text</p>
-      </div>
-      <div class="col-lg-6">      
-        <span><small>Built with </small><a href="https://minicomp.github.io/wax/" target="_blank">Wax</a><small> and </small><a href="https://jekyllrb.com/" target="_blank">Jekyll</a><small>. Available on </small><a href="https://github.com/minicomp/wax-facets/">GitHub</a></span>      
-      </div>
-    </div>
-  </div>
-</footer>
-</body>
-</html>
+:ET
