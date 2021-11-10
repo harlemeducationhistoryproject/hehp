@@ -59,12 +59,6 @@ search:
 menu:
   - label: "Exhibits"
     sub:
-      - label: "Parallax Images"
-        link: "/exhibits/parallax/"
-      - label: "Image References"
-        link: "/exhibits/references/"
-      - label: "Subset Collection"
-        link: "/exhibits/subset/"
       - label: "Barbara Wilson-Brooks and Her Harlem Community"
         link: "/exhibits/wasserman/"
   - label: "Browse"
