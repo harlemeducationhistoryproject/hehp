@@ -1,4 +1,4 @@
-I"$<h3 id="oral-history-clips">Oral History Clips</h3>
+I"º<h3 id="oral-history-clips">Oral History Clips</h3>
 
 <!--
   If there are one or more facet_by field names, build a form at the top of the
@@ -48,9 +48,9 @@
 
         <div class="gallery-item-facets wadleigh-junior-high-school col-xl-3 p-1">
           <div class="card thumbnail-card">
-            <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="" alt="Clip of Wil Buckery Oral History " />
+            <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="/hehptest/img/derivatives/simple/oh001/thumbnail.jpg" alt="Clip of Wil Buckery Oral History" />
             <div class="card-body">
-              <a href="/hehptest/oh/oh001.html"><h3 class="card-title">Clip of Wil Buckery Oral History </h3></a>
+              <a href="/hehptest/oh/oh001.html"><h3 class="card-title">Clip of Wil Buckery Oral History</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
               <p class="card-text small">
@@ -65,9 +65,9 @@
 
         <div class="gallery-item-facets wadleigh-junior-high-school col-xl-3 p-1">
           <div class="card thumbnail-card">
-            <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="" alt="Clip of Charles Evans Oral History " />
+            <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="/hehptest/img/derivatives/simple/oh002/thumbnail.jpg" alt="Clip of Charles Evans Oral History" />
             <div class="card-body">
-              <a href="/hehptest/oh/oh002.html"><h3 class="card-title">Clip of Charles Evans Oral History </h3></a>
+              <a href="/hehptest/oh/oh002.html"><h3 class="card-title">Clip of Charles Evans Oral History</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
               <p class="card-text small">
@@ -82,9 +82,9 @@
 
         <div class="gallery-item-facets wadleigh-junior-high-school col-xl-3 p-1">
           <div class="card thumbnail-card">
-            <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="" alt="Clip of Stephanie Cole Oral History " />
+            <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="/hehptest/img/derivatives/simple/oh003/thumbnail.jpg" alt="Clip of Stephanie Cole Oral History" />
             <div class="card-body">
-              <a href="/hehptest/oh/oh003.html"><h3 class="card-title">Clip of Stephanie Cole Oral History </h3></a>
+              <a href="/hehptest/oh/oh003.html"><h3 class="card-title">Clip of Stephanie Cole Oral History</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
               <p class="card-text small">
