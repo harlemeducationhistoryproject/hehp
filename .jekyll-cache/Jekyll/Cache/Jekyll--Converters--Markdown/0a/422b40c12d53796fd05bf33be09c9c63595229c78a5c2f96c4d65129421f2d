@@ -1,0 +1,120 @@
+I"$<h3 id="oral-history-clips">Oral History Clips</h3>
+
+<!--
+  If there are one or more facet_by field names, build a form at the top of the
+  page where each variable gets a set of checkboxes corresponding to
+  all of the possible values of that field.
+-->
+
+<form class="row" id="facets">
+  
+  <fieldset id="school-set" class="card m-1 facet-card">
+    <div class="card-header facet-header">
+      <a class="facet-bn" data-toggle="collapse" href="#school-collapse" role="button" aria-expanded="false" aria-controls="school-collapse">
+        <legend>
+          school
+          <span class="facets-chevron facets-chevron-bottom float-right ml-2" aria-hidden="true"></span>
+        </legend>
+      </a>
+      
+    </div>
+    <div class="collapse" id="school-collapse">
+      <div class="card-body">
+        
+        <div class="facet-item">
+          <input id="wadleigh-junior-high-school" class="school" type="checkbox" name="Wadleigh Junior High School" value="Wadleigh Junior High School" />
+          <label for="Wadleigh Junior High School">Wadleigh Junior High School</label>
+        </div>
+        
+      </div>
+    </div>
+  </fieldset>
+  
+</form>
+
+<!--
+  Build the gallery by iterating through items in the collection. If there are
+  facets specified, fine the items' values for those fields and add them as
+  classes to the gallery-item object. The classes are used by JavaScript
+  that reacts to changes to the checkbox filters.
+-->
+
+<div id="wax-gallery-oh-container" class="wax-gallery-container full-width">
+  <div class="wax-inline-container">
+    <div id="wax-gallery-oh" class="wax-gallery">
+      <div class="row">
+         
+        
+
+        <div class="gallery-item-facets wadleigh-junior-high-school col-xl-3 p-1">
+          <div class="card thumbnail-card">
+            <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="" alt="Clip of Wil Buckery Oral History " />
+            <div class="card-body">
+              <a href="/hehptest/oh/oh001.html"><h3 class="card-title">Clip of Wil Buckery Oral History </h3></a>
+              <!-- remove default text below or replace with a description from
+                the item record (e.g., ) -->
+              <p class="card-text small">
+                This is a  from Teachers College, Columbia University dating to
+                April 20, 2017.
+              </p>
+            </div>
+          </div>
+        </div>
+         
+        
+
+        <div class="gallery-item-facets wadleigh-junior-high-school col-xl-3 p-1">
+          <div class="card thumbnail-card">
+            <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="" alt="Clip of Charles Evans Oral History " />
+            <div class="card-body">
+              <a href="/hehptest/oh/oh002.html"><h3 class="card-title">Clip of Charles Evans Oral History </h3></a>
+              <!-- remove default text below or replace with a description from
+                the item record (e.g., ) -->
+              <p class="card-text small">
+                This is a  from Teachers College, Columbia University dating to
+                April 7, 2016.
+              </p>
+            </div>
+          </div>
+        </div>
+         
+        
+
+        <div class="gallery-item-facets wadleigh-junior-high-school col-xl-3 p-1">
+          <div class="card thumbnail-card">
+            <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="" alt="Clip of Stephanie Cole Oral History " />
+            <div class="card-body">
+              <a href="/hehptest/oh/oh003.html"><h3 class="card-title">Clip of Stephanie Cole Oral History </h3></a>
+              <!-- remove default text below or replace with a description from
+                the item record (e.g., ) -->
+              <p class="card-text small">
+                This is a  from Teachers College, Columbia University dating to
+                May 7, 2017.
+              </p>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  $( document ).ready(function() {
+
+          console.log(["school"]) // liquid array of one or more fields for facetting
+
+          // This JavaScript controls the expanding and contracting facet headers.
+          // Additional JS for this page in assets/js/facets.js
+          $('.facet-bn[aria-expanded]').click(function(event){
+            $(this).parent().parent().toggleClass("active");
+            // this selector might return multiple elements
+            $(this).children('legend').children('.facets-chevron').toggleClass("facets-chevron-bottom facets-chevron-top");
+          });
+        
+
+  });
+</script>
+
+:ET
