@@ -2,7 +2,7 @@
 layout: exhibit
 title: 'Barbara Wilson-Brooks and Her Harlem Community'
 author: Nina Wasserman
-publish_date: January, 2016
+publish_date: January 2016
 permalink: /exhibits/wasserman/
 ---
 <h2><strong>Introduction</strong></h2>

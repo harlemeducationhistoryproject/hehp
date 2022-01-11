@@ -1,12 +1,59 @@
-pid,label,description,creator,source,sourcelink,publisher,_date,contributor,rights,relation,_type,order,layout,collection,thumbnail,full
-was008,Map identifying the site of the former PS 31 in East Harlem,,"Wasserman, Nina",,,,,,,,image,07,exh_item,exh,img/derivatives/simple/was008/thumbnail.jpg,img/derivatives/simple/was008/fullwidth.jpg
-was005,Map identifying PS 133 in East Harlem,,"Wasserman, Nina",,,,,,,,image,04,exh_item,exh,img/derivatives/simple/was005/thumbnail.jpg,img/derivatives/simple/was005/fullwidth.jpg
-was011,"Map identifying the site of the former PS 241, Family Academy",,"Wasserman, Nina",,,,,,,,image,10,exh_item,exh,img/derivatives/simple/was011/thumbnail.jpg,img/derivatives/simple/was011/fullwidth.jpg
-was010,Map identifying the site of the former Julia Richman High School,,"Wasserman, Nina",,,,,,,,image,09,exh_item,exh,img/derivatives/simple/was010/thumbnail.jpg,img/derivatives/simple/was010/fullwidth.jpg
-was004,Map identifying  PS 133 in East Harlem,,"Wasserman, Nina",,,,,,,,image,03,exh_item,exh,img/derivatives/simple/was004/thumbnail.jpg,img/derivatives/simple/was004/fullwidth.jpg
-was006,Map identifying PS 133 in East Harlem,,"Wasserman, Nina",,,,,,,,image,05,exh_item,exh,img/derivatives/simple/was006/thumbnail.jpg,img/derivatives/simple/was006/fullwidth.jpg
-was007,Map identifying IS 201 Demonstration District and Lincoln Center for the Arts,,"Wasserman, Nina",,,,,,,,image,06,exh_item,exh,img/derivatives/simple/was007/thumbnail.jpg,img/derivatives/simple/was007/fullwidth.jpg
-was003,Map identifying IS 201 Demonstration District in East Harlem,,"Wasserman, Nina",,,,,,,,image,02,exh_item,exh,img/derivatives/simple/was003/thumbnail.jpg,img/derivatives/simple/was003/fullwidth.jpg
-was001,Intermediate School 201 exterior,,,Forgotten NY,https://forgotten-ny.com/2011/02/harlem-manhattan/,,2011,,,,image,01,exh_item,exh,img/derivatives/simple/was001/thumbnail.jpg,img/derivatives/simple/was001/fullwidth.jpg
-was009,Map identifying the site of Intermediate School 201,,"Wasserman, Nina",,,,,,,,image,08,exh_item,exh,img/derivatives/simple/was009/thumbnail.jpg,img/derivatives/simple/was009/fullwidth.jpg
-was002,Photograph of Barbara Wilson-Brooks,,"Wasserman, Nina",,,,2015,,,,image,00,exh_item,exh,img/derivatives/simple/was002/thumbnail.jpg,img/derivatives/simple/was002/fullwidth.jpg
+pid,label,description,creator,source,respository,papers,location,sourcelink,publisher,_date,contributor,rights,relation,_type,school,order,layout,collection,thumbnail,full
+was008,Map identifying the site of the former PS 31 in East Harlem,,"Wasserman, Nina",,,,,,,,,,,image,gen,7,exh_item,exh,img/derivatives/simple/was008/thumbnail.jpg,img/derivatives/simple/was008/fullwidth.jpg
+was005,Map identifying PS 133 in East Harlem,,"Wasserman, Nina",,,,,,,,,,,image,gen,4,exh_item,exh,img/derivatives/simple/was005/thumbnail.jpg,img/derivatives/simple/was005/fullwidth.jpg
+was011,"Map identifying the site of the former PS 241, Family Academy",,"Wasserman, Nina",,,,,,,,,,,image,gen,10,exh_item,exh,img/derivatives/simple/was011/thumbnail.jpg,img/derivatives/simple/was011/fullwidth.jpg
+was010,Map identifying the site of the former Julia Richman High School,,"Wasserman, Nina",,,,,,,,,,,image,gen,9,exh_item,exh,img/derivatives/simple/was010/thumbnail.jpg,img/derivatives/simple/was010/fullwidth.jpg
+was004,Map identifying  PS 133 in East Harlem,,"Wasserman, Nina",,,,,,,,,,,image,gen,3,exh_item,exh,img/derivatives/simple/was004/thumbnail.jpg,img/derivatives/simple/was004/fullwidth.jpg
+was006,Map identifying PS 133 in East Harlem,,"Wasserman, Nina",,,,,,,,,,,image,gen,5,exh_item,exh,img/derivatives/simple/was006/thumbnail.jpg,img/derivatives/simple/was006/fullwidth.jpg
+was007,Map identifying IS 201 Demonstration District and Lincoln Center for the Arts,,"Wasserman, Nina",,,,,,,,,,,image,gen,6,exh_item,exh,img/derivatives/simple/was007/thumbnail.jpg,img/derivatives/simple/was007/fullwidth.jpg
+was003,Map identifying IS 201 Demonstration District in East Harlem,,"Wasserman, Nina",,,,,,,,,,,image,gen,2,exh_item,exh,img/derivatives/simple/was003/thumbnail.jpg,img/derivatives/simple/was003/fullwidth.jpg
+was001,Intermediate School 201 exterior,,,Forgotten NY,,,,https://forgotten-ny.com/2011/02/harlem-manhattan/,,2011,,,,image,gen,1,exh_item,exh,img/derivatives/simple/was001/thumbnail.jpg,img/derivatives/simple/was001/fullwidth.jpg
+was009,Map identifying the site of Intermediate School 201,,"Wasserman, Nina",,,,,,,,,,,image,gen,8,exh_item,exh,img/derivatives/simple/was009/thumbnail.jpg,img/derivatives/simple/was009/fullwidth.jpg
+was002,Photograph of Barbara Wilson-Brooks,,"Wasserman, Nina",,,,,,,2015,,,,image,gen,0,exh_item,exh,img/derivatives/simple/was002/thumbnail.jpg,img/derivatives/simple/was002/fullwidth.jpg
+lef029,Dra. Evelina Antonetty Way,,"Powell, Morgan",The Bronx Chronicle,,,,,,"September 14, 2022",,,,image,wad,,exh_item,exh,,
+lef009,"Puerto Real, Puerto Rico. Part of the extremely poor little fishing village on the southwest coast of Puerto Rico",,"Delano, Jack ",,Library of Congress Prints & Photographs Division,Farm Security Administration - Office of War Information Photograph Collection,,https://www.loc.gov/item/2017798354/,,"January 1, 1942",,Public domain,,image,wad,,exh_item,exh,,
+lef008,"Puerto Real, Puerto Rico. Part of the extremely poor little fishing village on the southwest coast of Puerto Rico",,"Delano, Jack ",,Library of Congress Prints & Photographs Division,Farm Security Administration - Office of War Information Photograph Collection,,https://www.loc.gov/item/2017798353/,,"January 1, 1942",,Public domain,,image,wad,,exh_item,exh,,
+lef022,"Flyer, United Bronx Parents/ Padres Unidos del Bronx",,United Bronx Parents,,,,,,,,,Used with permission ,,image,wad,,exh_item,exh,,
+lef016,"One Year Ago: Next Thursday Is First Anniversary of Harlem Upheaval March 19 Outbreak Is Seen as Influence During Past Year Mayor's Commission Revealed Forces Behind ""Riot""",,"Poston, T.R. ",New York Amsterdam News ,Proquest Historical African American Newspapers,,,,,"March 14, 1936",,Used with permission,,image,wad,,exh_item,exh,,
+lef023,A Comparison of the Ethnic Composition of NYC Public School Students Population,,United Bronx Parents ,,El Centro de Estudios Puertorriqueños,Pura Belpre Papers ,,https://centroca.hunter.cuny.edu/Detail/objects/61,,November 1970,,Used with permission ,,image,wad,,exh_item,exh,,
+lef027,Evelina Antonetty,,"Reyes, Francisco ",,El Centro de Estudios Puertorriqueños,,,,,,,Used with permission ,,image,wad,,exh_item,exh,,
+lef026,Puerto Ricans Are Oppressed Everywhere,,Young Lords Party ,,"Tamiment Library and Labor Archives, NYU",,,,,1971-1974,,,,image,wad,,exh_item,exh,,
+lef024,"Press release, 100.000 Free Lunches a day for Children is Goal of United Bronx Parents",,United Bronx Parents,,El Centro de Estudios Puertorriqueños,"Records of United Bronx Parents, Inc., 1966-1989","Box 7, Folder 1",https://centroca.hunter.cuny.edu/Detail/objects/457,,"June 29, 1971",,Used with permission,,image,wad,,exh_item,exh,,
+lef030,Dr. Evelina Lopez Antonetty Mural at P.S. 277,,,,,,,,,,,,,image,wad,,exh_item,exh,,
+lef031,"Evelina Lopez Antonetty Mural, South Bronx",,TATS Cru,,,,,,,,,,,image,wad,,exh_item,exh,,
+lef019,Proposal: The Puerto Rican Community Development Project,,"Pantoja, Antonia ",,El Centro de Estudios Puertorriqueños,"Antonia Pantoja Papers, 1923-2002",,https://centroca.hunter.cuny.edu/Detail/objects/146,,,,Used with permission ,,image,wad,,exh_item,exh,,
+jur006,"Harlem Population by Race, 1970",,"Juravich, Nick ",US Census Data via Social Explorer ,,,,www.socialexplorer.com,,,,Public domain,,image,gen,,exh_item,exh,,
+jur012,Parent-Teacher Teams - Locations ,,"Juravich, Nick ",,,,,,,,,Used with permission,,image,gen,,exh_item,exh,,
+jur007,"Harlem Population by ""Spanish Origin,"" 1970",,"Juravich, Nick ",US Census Data via Social Explorer ,,,,www.socialexplorer.com,,,,Public domain,,image,gen,,exh_item,exh,,
+jur013,"[Photo Standalone, No Title] ",,,New York Amsterdam News ,Proquest Historical Newspapers ,,,,,"October 31, 1964",,Used with permission,,image,gen,,exh_item,exh,,
+jur011,"Paraprofessional Doris Hunter Teaching in Brooklyn, 1970",,"Weissenstein, Hans",,"Tamiment Library and Robert F. Wagner Labor Archives, NYU",United Federation of Teachers Hans Weissenstein Negatives Collection,,,,1970,,Used with permission,,image,gen,,exh_item,exh,,
+jur005,Parent-Teacher Teams - Partner Organizations,,"Juravich, Nick ",,,,,,,,,Used with permission,,image,gen,,exh_item,exh,,
+jur004,Parent-Teacher Teams - Center B Schools,,"Juravich, Nick ",,,,,,,,,Used with permission,,image,gen,,exh_item,exh,,
+jur010,"Harlem Educational Attainment, 1970",,"Juravich, Nick ",US Census Data via Social Explorer ,,,,www.socialexplorer.com,,,,Public domain,,image,gen,,exh_item,exh,,
+jur014,A group of parent educators meets together on the Lower East Side. ,,,,Collection of Mary Dowery,,,,,,,Used with permission,,image,gen,,exh_item,exh,,
+jur001,Parent-Teacher Teams - Center C Schools,,"Juravich, Nick ",,,,,,,,,Used with permission,,image,gen,,exh_item,exh,,
+jur015,"Mary Dowery and Frank Riessman (at the end of the table) lead a role-playing session for Lower East Side parents, 1963 or 1964",,,,Collection of Mary Dowery,,,,,,,Used with permission,,image,gen,,exh_item,exh,,
+jur017,"Graduation Ceremony for Paraprofessional Educators at the 369th ""Hellfighters"" Regiment Armory in Harlem, 1973",,"Weissenstein, Hans",,"Tamiment Library and Robert F. Wagner Labor Archives, NYU",United Federation of Teachers Hans Weissenstein Negatives Collection,,,,1970,,Used with permission,,image,gen,,exh_item,exh,,
+jur003,Parent-Teacher Teams - Participating Teachers ,,"Juravich, Nick ",,,,,,,,,Used with permission,,image,gen,,exh_item,exh,,
+jur002,Parent-Teacher Teams - Parent Educators,,"Juravich, Nick ",,,,,,,,,Used with permission,,image,gen,,exh_item,exh,,
+jur016,"Hope Leichter at Parent-Teacher Teams Event, 1968 ",,Teachers College,TC Week ,Columbia University Archives,Morningside Area Alliance ,,,Teachers College,1968,,Used with permission,,image,gen,,exh_item,exh,,
+lef011,Passengers arriving at New York Airport during the Great Migration,,Fundacion Puertorriquena de la Humanidades,Puerto Rico Encyclopedia,,,,https://enciclopediapr.org/,,,,,,image,wad,,exh_item,exh,,
+jur009,"Harlem Unemployed Population, 1970",,"Juravich, Nick ",US Census Data via Social Explorer ,,,,www.socialexplorer.com,,,,Public domain,,image,gen,,exh_item,exh,,
+jur008,"Harlem Family Income, 1970",,"Juravich, Nick ",US Census Data via Social Explorer ,,,,www.socialexplorer.com,,,,Public domain,,image,gen,,exh_item,exh,,
+lef014,El Barrio,,"Roberts, H. Armstrong",,,,,,,c. 1970s,,Copyright Getty Images,,image,wad,,exh_item,exh,,
+lef028,The Fourth Annual Tribute to African Diaspora Women,,Caribbean Cultural Center African Diaspora Institute,,Centro de Estudios Puertorriqueños,"Records of United Bronx Parents, Inc., 1966-1989 ","Box 2, Folder 6",,,"May 20, 1990",,Used with permission,,image,wad,,exh_item,exh,,
+lef015,Distribution of Population in Harlem,,,"Reproduced in Lorrin Thomas, ""They See Us as Black Americans: Puerto Rican Migrants and the Politics of Citizenship in Depression-Era New York City,"" Delaware Review of Latin American Studies 6:1 (June 2005).",,,,,,,,,,image,wad,,exh_item,exh,,
+lef001,"Map of Puerto Rico, indicating Evelina Lopez's birthplace",,"Lefty, Lauren",,,,,,,,,,,image,wad,,exh_item,exh,,
+lef003,"Map indicating Harlem and the South Bronx, New York City ",,"Lefty, Lauren",,,,,,,,,,,image,wad,,exh_item,exh,,
+lef017,"Wadleigh High School for Girls, 1903",,,,,,,,,,,Public domain ,,image,wad,,exh_item,exh,,
+lef002,Map indicating Puerto Rico and New York City ,,"Lefty, Lauren",,,,,,,,,,,image,wad,,exh_item,exh,,
+lef006,"Map indicating United Bronx Parents Headquarters, the South Bronx",,"Lefty, Lauren",,,,,,,,,,,image,wad,,exh_item,exh,,
+lef012,Map of Puerto Rico 1898,,,,,,,,,1898,,,,image,wad,,exh_item,exh,,
+lef013,"School room in rural school. Cidra, Puerto Rico",,"Rosskam, Edwin",,Library of Congress Prints & Photographs Division,Farm Security Administration - Office of War Information Photograph Collection,,https://www.loc.gov/item/2017764472/,,"January 1, 1938",,Public domain,,image,wad,,exh_item,exh,,
+lef007,"El Borinquen, Ship from Puerto Rico to New York",,,,Collection of Bjorn Larsson,,,http://www.timetableimages.com/maritime/images/porto34i1.htm,,1934,,Used with permission ,,image,wad,,exh_item,exh,,
+lef005,Map indicating the South Bronx,,"Lefty, Lauren",,,,,,,,,,,image,wad,,exh_item,exh,,
+lef004,Map indicating Wadleigh High School in Harlem ,,"Lefty, Lauren",,,,,,,,,,,image,wad,,exh_item,exh,,
+lef010,"Puerto Rican Migration to the U.S. and New York, 1930-1980",,"Korrol, Virginia Sanchez","From Colonia to Community: The History of Puerto Ricans in New York City, 1917-1948. Berkeley, CA: University of California Press, 1983.",,,,,,1983,,,,image,wad,,exh_item,exh,,
+lef018,Pura Belpre's Story Hour,,,,El Centro de Estudios Puertorriqueños,Pura Belpre Papers ,,https://centroca.hunter.cuny.edu/Detail/objects/686,,c. 1930s,,Used with permission ,,image,wad,,exh_item,exh,,
+lef020,"An elementary school classroom in the Bronx, 1949. ",,,,Bronx African American History Project,,,https://www.jbhe.com/2015/12/the-fordham-bronx-african-american-history-project-is-now-available-online/,,,,,,image,wad,,exh_item,exh,,
+lef021,"Director Evelina Antonetty of Bronx United Parents, Inc. in window of organization offices, Bronx, NY",,,,El Centro de Estudios Puertorriqueños,"Records of United Bronx Parents, Inc., 1966-1989","Box 9, Folder 2.",,,,,Used with permission ,,image,wad,,exh_item,exh,,
