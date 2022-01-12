@@ -1,4 +1,4 @@
----
+maa---
 layout: exhibit
 title: 'Community in the Classroom: Parent Teacher Teams in Harlem'
 author: Nick Juravich
@@ -26,7 +26,7 @@ What does a focus on the lives and labor of these working-class, Black and Latin
 
 <h2><strong>Parent-Teacher Teams in Harlem: An Introduction</strong></h2>
 
-{% include inline_image.html collection='cuamaa5516' pid='cua_maa_55_16_001' %}
+{% include inline_image.html collection='maa' pid='maa001' %}
 
 <h2>It "Worked Beautifully": Parent-Teacher Teams, February 1969</h2>
 
@@ -34,7 +34,7 @@ In the late 1960s, public education in New York City <a href="http://www.gothamc
 
 In the midst of this maelstrom, the newsletter of Teachers College, Columbia University ran a front-page report titled “Parents Go Back to School - As Teacher Assistants and TC Students." Over the preceding year, TC had joined parents, teachers, community organizations, and the local school district in building a program called “Parent-Teacher Teams” in the schools of Harlem and the Upper West Side. TC’s role, as the article explained, was “the training of paraprofessional educators … as part of a program that represents a new model for school-community involvement.”</p>
 
-{% include inline_image.html collection='cuamaa5516' pid='cua_maa_55_16_001' %}
+{% include inline_image.html collection='maa' pid='maa001' %}
 
 <h2>“A New Model for School-Community Involvement”</h2>
 What was this new model? The school district's project proposal from December of 1967 explained that parents would be trained to “work as non-professionals in a teamwork approach” with teachers in classrooms. The proposal cited three additional goals:
@@ -104,7 +104,7 @@ Riessman's book launched a "New Careers Movement" in antipoverty policy. In 1966
 
 <h2>The Many Sponsors of Parent-Teacher Teams</h2>
 
-{% include inline_image.html collection='cuamaa5516' pid='cua_maa_55_16_003' %}
+{% include inline_image.html collection='maa' pid='maa003' %}
 
 When Local School District 5 of the New York City Board of Education moved to create Parent-Teacher Teams in 1967, they took advantage of a rich landscape of organizations that were invested in improving public education through parent involvement and local hiring. An early document from the program (above) outlines these extensive partnerships:
 
@@ -127,7 +127,7 @@ In the 1960s, the Ford Foundation was one of the most active and influential phi
 
 <h2>The Plan: Goals for Parent-Teacher Teams</h2>
 
-{% include inline_image.html collection='cuamaa5516' pid='cua_maa_55_16_020' %}
+{% include inline_image.html collection='maa' pid='maa020' %}
 
 The proposal created by the District and its partners listed the following "Needs to be met" and "Goals" to describe the impact that they hoped Parent-Teacher Teams would have on their schools:</p> [CHECK FORMAT HERE]
 <p dir="ltr"><strong>Needs to be met:</strong></p>
@@ -150,7 +150,7 @@ When this proposal was funded in December of 1967, the stage was set for Parent-
 
 <h2>Building Mutual Understanding Between Parents and Teachers</h2>
 
-{% include inline_image.html collection='cuamaa5516' pid='cua_maa_55_16_008' %}
+{% include inline_image.html collection='maa' pid='maa008' %}
 
 District 5's 1967 proposal for Parent-Teacher Teams was built, in part, on a preliminary program the district ran during the previous summer. On a volunteer basis, "parents and teachers joined workshops where they learned about the needs and abilities of children, learned how and what children are taught in school, and, most important of all, learned about each other." The process, according to the report that documented it in the spring of 1968, generated "mutual understanding" that laid the groundwork for parent-teacher cooperation in the classroom. One teacher who took part in the program told the organizers:"Parents want the same thing that I want - each is looking out for the welfare of the child. I can’t wait to have a parent in my room.”
 
@@ -264,7 +264,7 @@ Mapping Unemployment: The darker the census tract, the higher the unemployment l
 
 <h2><strong>Impact: In the Classroom</strong></h2>
 
-{% include inline_image.html collection='cuamaa5516' pid='cua_maa_55_16_001' %}
+{% include inline_image.html collection='maa' pid='maa001' %}
 
 The article published in <em>TC Week</em> in 1969 begins by describing the academic impact made by two parent educators.</p>
 <p>- Mrs. Azalee Evans at PS 207 "has prepared the first lessons in a course on Afro-American history. She teaches the course to the third grade class where she works while the regular teacher looks on." Mrs. Ella Elliston, who also served on the program's Parent Council, "has been teaching pupils how to sew on buttons, make patches, etc. At Christmas, every boy and girl in the class, under Mrs. Elliston’s direction, sewed aprons as gifts.” An undated report from the files of Morningside Heights, Inc. that appears to have been written in 1968 confirms this positive assessment. Describing the work of parent educators, it notes: “The addition of a parent in the classroom benefits the children as much as the teacher and parent involved because the parent can give individual attention and small group instruction while the teacher is working with other students, can offer talents (musical, artistic) that the teacher may not have, can help the non-English speaking children (many parents in the program are bi-lingual) and can understand and relate to children whose environment she shares.” The initial proposal for Parent-Teacher Teams included a long list of proposed duties for parent educators. These ranged from providing individual assistance and small group work with students in classrooms to more specific directives, including
@@ -287,7 +287,7 @@ In addition to the specific impact of parent interventions, the presence and lab
 
 <h2>Community Connections at Many Levels</h2>
 
-{% include inline_image.html collection='cuamaa5516' pid='cua_maa_55_16_011' %}
+{% include inline_image.html collection='maa' pid='maa011' %}
 
 Communication between parents and teachers - and at a broader level, schools and communities - developed in several ways with the structure of the Parent-Teacher Teams program. Some of these connections took place in individual classrooms, where parent educators used their knowledge of neighborhood and family life in Harlem to make students feel at home in school, and to <a href="https://harlemeducationhistory.library.columbia.edu/collection/exhibits/show/community-in-the-classroom/impact-classroom">inform teachers about particular needs or challenges that a student might face</a>. Parent-teacher conversations were also built into the training process, which allocated one hour every week for teachers and parent educators to meet face-to-face. At the neighborhood level, parent educators moving between their homes, schools, churches, parks, and supermarkets carried information with them in both directions, keeping fellow parents appraised of what was happening in schools and informing teachers and administrators about the changing conditions of life in Harlem.
 
@@ -324,13 +324,13 @@ Community-based paraprofessional educators made an immediate impact on classroom
 
 <h2>Two Kinds of Training: Professional Development and Career Advancement</h2>
 
-{% include inline_image.html collection='cuamaa5516' pid='cua_maa_55_16_010' %}
+{% include inline_image.html collection='maa' pid='maa010' %}
 
 Parent-Teacher Teams paid parent educators and teachers to participate in four hours of training each week. Parent educators also received a stipend to attend classes at Teachers College for one day a week. District 5 and TC divided the tasks: the District trained “teachers and parents so that they can work together more efficiently in the classroom” while TC’s courses were designed to “enable parents to further their own education and upgrade their vocational skills so that they can advance to other jobs in the school system or outside it.” While the training was designed and implemented by professional educators at the District at TC, parent educators quickly became active participants in shaping this process and its implications for their own advancement and their roles in schools.
 
 <h2>Professional Development: Improving Classroom Practice</h2>
 
-{% include inline_image.html collection='cuamaa5516' pid='cua_maa_55_16_021' %}
+{% include inline_image.html collection='maa' pid='maa021' %}
 
 The 27 schools in the program were divided into five Centers, administrative clusters that each designated a central school for District-led after-school trainings. The schedule, pictured below, was broken into three blocks.
 
@@ -346,7 +346,7 @@ The immediate economic impact of paraprofessional programs like Parent Teacher T
 
 In addition to jobs, Parent-Teacher Teams promised “an opportunity for parents to upgrade their academic backgrounds and career horizons." Teachers College ran this program on Tuesdays for parent educators, who received a small stipend for their attendence. Most worked toward high school diplomas, while those who had already graduated sought college credit.
 
-{% include inline_image.html collection='cuamaa5516' pid='cua_maa_55_16_001' %}
+{% include inline_image.html collection='maa' pid='maa001' %}
 
 Professor Hope Leichter (pictured) designed the academic program for parent educators. Working toward a diploma, she noted, was a "long haul" for many working mothers, but as one of her faculty told Morningside Heights, Inc. “School personnel and TC staff agree that the parents seem alert, enthusiastic and eager to learn both educational and vocational skills.”
 
@@ -383,11 +383,11 @@ In the clip above, Hope Leichter describes some of the factors that led to the e
 <p><strong>Decentralization of the School System: </strong>In 1970, the State of New York split the New York City School District into 31 sub-districts, a partial concession to demands for decentralization and community participation that had emanated from Harlem for decades. While the intention of this decentralization was to provide increased opportunity for programs like Parent-Teacher Teams to evolve, existing programs were often shuttered as District lines were redrawn. </p>
 <p><strong>Limits of the Career Ladder at Columbia: </strong>As Leichter notes, Columbia University's School of General Studies (TC did not offer undergraduate degrees) did not ultimately approve a college program for parent educators, which became a point of frustration for participants as well as the District. While paraprofessional educators were often promised the opportunity to become teachers in early programs, these opportunities did not materialize until paras in New York City unionized and bargained a measure for training into their contract in 1970.
 
-{% include inline_image.html collection='cuamaa5516' pid='cua_maa_55_16_013' %}
+{% include inline_image.html collection='maa' pid='maa013' %}
 
 <p><strong>The Grant Funding Model</strong>: Perhaps the biggest challenge, as Leichter notes, was the grant funding model. Both the Ford Foundation and, to a lesser degree, the ESEA, initially worked on a grant-and-demonstration-model basis. While such grants allowed for tremendous innovation, they also left projects vulnerable when priorities and politics shifted. After conflict arose around Ford-Foundation-funded community control districts in New York City in 1968, Ford began moving away from these sorts of direct interventions in community schooling, leaving programs like PTT with few options.</p>
 
-{% include inline_image.html collection='cuamaa5516' pid='cua_maa_55_16_014' %}
+{% include inline_image.html collection='maa' pid='cua_maa55_16_014' %}
 
 <h2>Community-Based Paraprofessional Educators in Harlem Beyond Parent-Teacher Teams</h2>
 
@@ -405,7 +405,7 @@ Credits
 
 This exhibit was created by Nick Juravich. It began as an assignment in Professor Ansley T. Erickson's "Harlem Digital Research Collaborative" course in Spring 2014, and has evolved through a process of open review on the Harlem Education History Project website. Many thanks are due to all of the participants in that course, the reviewers, and the entire HEHP team for their support and recommendations. Special thanks are due to all of the educators who shared their experiences with us as part of this project. © Nick Juravich, 2017
 
-This exhibit is a companion to the essay, <a href="https://harlemeducationhistory.library.columbia.edu/book/chapters/10“>"Harlem Sophistication: Paraprofessional Educators in Harlem and East Harlem, 1963-1983,"</a> in <a href="https://harlemeducationhistory.library.columbia.edu/book/"> Educating Harlem: A Century of Schooling and Resistance in a Black Community</a>. As I have worked on both of these projects, it has become apparent that chapters and exhibits have different logics. In the chapter, I am trying to make an argument, using sources that have been distilled to their pithiest, quickest form. When I started writing the exhibit, I was thinking the same way and foregrounding my writing, but as the exhibit evolved and passed through a process of open review, I have realized that the best parts of the exhibit cannot and should not be my writing, no matter how polished or pithy. The best parts of the exhibit are the photos, oral histories, documents, and the maps: the parts where a viewer sees, hears, and interacts with the sources. To that end, I have included as many of these sources as possible, and the exhibit makes use of oral histories and photos of paraprofessional educators and their allies from beyond Parent-Teacher Teams. While no programs or individual experiences were exactly the same, these photos and remembrances have been chosen to provide paraprofessional perspectives that are broadly representative of the experience of paras in these years. For additional information on these individuals, please <a href="https://www.umb.edu/nick_juravich">contact the exhibit creator</a>.   </p> 
+This exhibit is a companion to the essay, <a href="https://harlemeducationhistory.library.columbia.edu/book/chapters/10“>"Harlem Sophistication: Paraprofessional Educators in Harlem and East Harlem, 1963-1983,"</a> in <a href="https://harlemeducationhistory.library.columbia.edu/book/"> Educating Harlem: A Century of Schooling and Resistance in a Black Community</a>. As I have worked on both of these projects, it has become apparent that chapters and exhibits have different logics. In the chapter, I am trying to make an argument, using sources that have been distilled to their pithiest, quickest form. When I started writing the exhibit, I was thinking the same way and foregrounding my writing, but as the exhibit evolved and passed through a process of open review, I have realized that the best parts of the exhibit cannot and should not be my writing, no matter how polished or pithy. The best parts of the exhibit are the photos, oral histories, documents, and the maps: the parts where a viewer sees, hears, and interacts with the sources. To that end, I have included as many of these sources as possible, and the exhibit makes use of oral histories and photos of paraprofessional educators and their allies from beyond Parent-Teacher Teams. While no programs or individual experiences were exactly the same, these photos and remembrances have been chosen to provide paraprofessional perspectives that are broadly representative of the experience of paras in these years. For additional information on these individuals, please <a href="https://www.umb.edu/nick_juravich">contact the exhibit creator</a>.   </p>
 
 Further Resources
 <h2>Primary Sources</h2> [CHECK ALL FOR FORMATTING]
