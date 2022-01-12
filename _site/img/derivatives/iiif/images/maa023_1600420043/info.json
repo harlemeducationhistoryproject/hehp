@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "/hehptest/img/derivatives/iiif/images/maa023_1600420043",
+  "protocol": "http://iiif.io/api/image",
+  "width": 3565,
+  "height": 5772,
+  "sizes": [
+    {
+      "width": 3565,
+      "height": 5772
+    },
+    {
+      "width": 250,
+      "height": 405
+    },
+    {
+      "width": 1140,
+      "height": 1846
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

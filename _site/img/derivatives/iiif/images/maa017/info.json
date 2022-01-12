@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "/hehptest/img/derivatives/iiif/images/maa017",
+  "protocol": "http://iiif.io/api/image",
+  "width": 3078,
+  "height": 1855,
+  "sizes": [
+    {
+      "width": 3078,
+      "height": 1855
+    },
+    {
+      "width": 250,
+      "height": 151
+    },
+    {
+      "width": 1140,
+      "height": 687
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}
