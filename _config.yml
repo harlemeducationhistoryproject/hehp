@@ -35,7 +35,7 @@ collections:
       source: "raw_images/oh" # path to the directory of images within `_data`
   maa: # name of collection
     output: true # makes sure pages are output as html files
-    layout: "exh_item" # the layout for the pages to use
+    layout: "item" # the layout for the pages to use
     metadata:
       source: "maa.csv" # path to the metadata file within `_data`
     images:
