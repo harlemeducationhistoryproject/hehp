@@ -75,8 +75,6 @@ menu:
     sub:
       - label: "Barbara Wilson-Brooks and Her Harlem Community"
         link: "/exhibits/wasserman/"
-      - label: "Community in the Classroom: Parent Teacher Teams in Harlem"
-        link: "/exhibits/juravich/"
   - label: "Browse"
     link: "/collection/"
   - label: "Search"
