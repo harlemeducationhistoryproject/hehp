@@ -32,7 +32,7 @@ What does a focus on the lives and labor of these working-class, Black and Latin
 
 In the late 1960s, public education in New York City <a href="http://www.gothamcenter.org/blog/new-histories-of-education-in-new-york-city-an-introduction">was in crisis</a>. Nowhere was this more apparent than in Harlem, <a href="http://www.gothamcenter.org/blog/a-series-of-blunders-and-broken-promises-is-201-as-a-turning-point">where a decade of parent-led civil rights organizing</a> had done little to improve student achievement or desegregate the neighborhood's overcrowded, crumbling schools. In 1968, <a href="http://traue.commons.gc.cuny.edu/volume-iii-issue-1-fall-2014/issue-editors-introduction/">an experimental program of "community control"</a> that included a portion of Harlem and East Harlem had devolved into chaos when parent organizers and the teachers' union clashed over the transfer of teachers. By the end of the year, distrust and hostility between students, parents, teacher and administrators was at an all-time high.
 
-In the midst of this maelstrom, the newsletter of Teachers College, Columbia University ran a front-page report titled “Parents Go Back to School - As Teacher Assistants and TC Students." Over the preceding year, TC had joined parents, teachers, community organizations, and the local school district in building a program called “Parent-Teacher Teams” in the schools of Harlem and the Upper West Side. TC’s role, as the article explained, was “the training of paraprofessional educators … as part of a program that represents a new model for school-community involvement.”</p>
+In the midst of this maelstrom, the newsletter of Teachers College, Columbia University ran a front-page report titled “Parents Go Back to School - As Teacher Assistants and TC Students." Over the preceding year, TC had joined parents, teachers, community organizations, and the local school district in building a program called “Parent-Teacher Teams” in the schools of Harlem and the Upper West Side. TC’s role, as the article explained, was “the training of paraprofessional educators … as part of a program that represents a new model for school-community involvement.”
 
 {% include inline_image.html collection='maa' pid='maa001' %}
 
@@ -200,31 +200,21 @@ How did this program, and the movement of people through it, shape new kinds of 
 
 <h2>On the Map</h2>
 
-<strong> Parent Educators</strong>
-
 Each blue dot represents the home address of one of 47 mothers hired to work as paraprofessional educators in the seven schools on this map. Parent educators lived very close to the schools where they worked, often within a few blocks, and saw their students and their parents regularly outside of the classroom, in supermarkets, parks, and places of worship. Parent educators were intimately familiar with their neighborhoods and brought local knowledge into schools. Once employed, they carried understandings of official policies and practices with them into formal and informal conversations with students, parents, and community members beyond schools. Thus, these dots represent community connections to schools and nodes of outreach for schools. Each dot also represents a new job and new training opportunities for a working mother.
 
 {% include inline_image.html collection='exh' pid='jur002' %}
-
-<strong>Participating Teachers</strong>
 
 Each red dot represents the home address of one of 47 participating teachers. Scattered across the metropolitan area, these dots illustrate the suburbanization of the teaching workforce in the 1960s. However, many participating teachers lived on the Upper West Side, some walking distance from the schools where they worked. This may have been on account of teacher self-selection: it would have been easier for teachers living nearby to participate in a program that demanded significant after-school training commitments. Teachers living in close proximity to their schools may also have been more sensitive to the need to connect to local communities. At the same time, only one teacher lived east of Morningside Park, and those who lived on the Upper West Side typically lived west of Amsterdam Avenue. Comparing the home addresses of teachers and parent educators reveals local patternings of class and race at several scales.
 
 {% include inline_image.html collection='exh' pid='jur003' %}
 
-<strong>Center B Schools</strong>
-
 Center B was an administrative cluster of four schools in southern Harlem: PS 113, PS  184, PS 185, and PS 208. 26 of 27 parent educators working in these schools lived within a square quarter-mile bounded by Central Park, 117th Street, 5th Avenue, and Manhattan Avenue, while only one teacher did. In Harlem, the effects of long-running neighborhood-level segregation are visible in the distance between teachers and their workplaces. As one report explained, employing a parent-educators who can understand and relate to children whose environment she shares was meant to bridge this distance.
 
 {% include inline_image.html collection='exh' pid='jura004' %}
 
-<strong>Center C Schools</strong>
-
 Center C was an administrative cluster of three schools in Morningside Heights and Manhattan Valley: PS 145, PS 165, and PS 179. All 21 parent educators lived within a few blocks of their schools, but so did many teachers, with some parents and teachers living on the same blocks and, in one instance, in the same building (on 104th Street). Spatial inequality is still present in this neighborhood; most parent addresses are clustered to the east, on the borders of Harlem and down the hill from more elite addresses on Broadway and Riverside Drive. Eight parent educators lived in public housing, while no teachers did. However, boundaries are more uneven in this cluster of schools, and the presence of parent addresses west of Amsterdam Avenue reveal that parents in Parent-Teacher Teams were not a homogeneous group, but came from many racial, ethnic, and class backgrounds.
 
 {% include inline_image.html collection='exh' pid='jur001' %}
-
-<strong>Partner Organizations</strong>
 
 Parent-Teacher Teams was administered by the New York City Board of Education's Local School District 5, which was headquartered in a school building on 96th Street. The District's boundaries stretched roughly from 59th Street to 125th Street on the Upper West Side and Harlem. The district opened a storefront office in 1968, shortly after Parent-Teacher Teams began, to better connect with parents and community members in the district. While it was more accessible than District 5's Headquarters, the storefront office remained at a distance from Harlem.
 
