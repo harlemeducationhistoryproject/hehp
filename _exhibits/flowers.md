@@ -1,6 +1,6 @@
 ---
 layout: exhibit
-title: 'Dr. Sandra (Sandye) Poitier Johnson's Harlem'
+title: 'Dr. Sandra (Sandye) Poitier Johnson and her Harlem'
 author: Deidre Bennett Flowers
 publish_date: March 2022
 permalink: /exhibits/flowers/
