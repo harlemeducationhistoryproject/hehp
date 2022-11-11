@@ -5,7 +5,7 @@ author:
   email: harlemedhistory@tc.columbia.edu
 description: A collaborative investigation into schooling and learning in 20th century Harlem.
 
-baseurl: "/hehptest"
+baseurl: "/collection/hehp"
 
 # --------------------------------------------------------------
 # COLLECTION SETTINGS
@@ -75,6 +75,10 @@ menu:
     sub:
       - label: "Barbara Wilson-Brooks and Her Harlem Community"
         link: "/exhibits/wasserman/"
+      - label: "Community in the Classroom: Parent-Teacher Teams in Harlem"
+        link: "/exhibits/juravich"
+      - label: "A Microhistory of Community Activism in Harlem - The Academy for Black and Latin Education"
+        link: "exhibits/huang"
   - label: "Browse"
     link: "/collection/"
   - label: "Search"

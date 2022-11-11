@@ -1,28 +1,28 @@
 {
   "@type": "sc:Canvas",
-  "@id": "/hehptest/img/derivatives/iiif/canvas/maa006_1600420013.json",
+  "@id": "/collection/hehp/img/derivatives/iiif/canvas/maa006_1600420013.json",
   "label": "Page 2",
   "width": 3503,
   "height": 4488,
-  "thumbnail": "/hehptest/img/derivatives/iiif/images/maa006_1600420013/full/250,/0/default.jpg",
+  "thumbnail": "/collection/hehp/img/derivatives/iiif/images/maa006_1600420013/full/250,/0/default.jpg",
   "images": [
     {
       "@type": "oa:Annotation",
-      "@id": "/hehptest/img/derivatives/iiif/annotation/maa006_1600420013.json",
+      "@id": "/collection/hehp/img/derivatives/iiif/annotation/maa006_1600420013.json",
       "motivation": "sc:painting",
       "resource": {
-        "@id": "/hehptest/img/derivatives/iiif/images/maa006_1600420013/full/full/0/default.jpg",
+        "@id": "/collection/hehp/img/derivatives/iiif/images/maa006_1600420013/full/full/0/default.jpg",
         "@type": "dcterms:Image",
         "format": "image/jpeg",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "/hehptest/img/derivatives/iiif/images/maa006_1600420013",
+          "@id": "/collection/hehp/img/derivatives/iiif/images/maa006_1600420013",
           "profile": "http://iiif.io/api/image/2/level0.json"
         },
         "width": 3503,
         "height": 4488
       },
-      "on": "/hehptest/img/derivatives/iiif/canvas/maa006_1600420013.json"
+      "on": "/collection/hehp/img/derivatives/iiif/canvas/maa006_1600420013.json"
     }
   ],
   "@context": "http://iiif.io/api/presentation/2/context.json"

@@ -16,7 +16,7 @@ In 1968, West Side Street Academy started offering classes and tutoring to youth
 
 Although the idea of founding West Side Street Academy was initiated by a group of white residents, the program was intended to be run by the broader community, including Black and Latinx members. The academy was modeled after the Street Academies of the Urban League, whose members shared their ideas and approaches with the founders of West Side Street Academy during numerous meetings. West Side Street Academy meant to provide youths in the community with meaningful education, to get young people off the streets and motivate them to continue their education. West Side Street Academy emphasized that classes in Black and Latinx history and literature would be crucial in order to create a sense of pride in the students and ultimately criticized the lack of this history and a focus on a white mainstream perspective in public school curricula. The initial goal was to use education to interrupt the “cycle of poverty and welfare dependency” and offer meaningful alternatives in order to support individuals to become independent and self-sufficient community members.
 
-{% include inline_image.html collection='qatar' pid='obj7' %}
+{% include inline_image.html collection='maa' pid='maa026' %}
 
 [Previous caption: A report of the West Side Street Academy, later known as the Academy for Black and Latin Education (ABLE), that details intended aims and goals for the organization. The report summarizes ABLE's hope for community, business, and academic contributions and involvement in the organization.]
 
@@ -28,7 +28,10 @@ Thus, both the director and the first streetworker at the academy were Black mem
 
 While the academy started off bearing strong similarities to the Urban League Street Academies, this particular academy transformed quickly into a true communal effort, pursuing more radical ideas; this is also reflected in the name change from West Side Street Academy to Academy for Black and Latin Education (ABLE), embracing the students’ identities rather than focusing on the West Side. In order to keep their local autonomy and not depend on the Board of Education or large corporate donors, ABLE relied on fundraising, community businesses and philanthropic organizations to support the academy financially.
 
-{% include inline_image.html collection='qatar' pid='obj2' %}
+{% include inline_image.html collection='maa' pid='maa025' %}
+[Previous caption: A summary of an interview with Bobbi Mahoney and Vern Douglas discussing the origins, details, and needs of the academy. The program is looking for volunteers to teach 25 high school drop-outs. The document indicates that the program staff feel they need a black teacher and a teacher who speaks English and Spanish. They explain their mission as aiming to prevent school dropouts and drug addictions.]
+
+{% include inline_image.html collection='maa' pid='maa028' %}
 [Previous caption: A description of the ABLE summer concerts, seeking participants and performers, emphasizing the importance of community engagement.]
 
 <h2><strong>Organizational Approach</strong></h2>
@@ -39,11 +42,16 @@ This sentiment is emphasized in one of their first reports, in which ABLE’s or
 
 The inclusion of the community could be read as evidence that ABLE’s white members realized that their own lived experiences may differ from those of Black and Latinx people in the neighborhood. In order to truly serve Black and Latinx members, those voices needed to be heard and acted upon.
 
+{% include inline_image.html collection='maa' pid='maa026' %}
+[Excerpt - p. 3]
+[Previous caption: A part of ABLE's report detailing its intended approach and organization.]
+
 <h2><strong>Curriculum</strong></h2>
 
 The Academy for Black and Latin Education aimed to be both for and of the community. Consequently, the academy hoped that students who graduated from ABLE would return eventually in order to support others growing up there. In that way, the ultimate goal of a self-supporting, socially stable community could be achieved. Subsequently, the engagement of the community within the academy was an essential part of the curriculum. For ABLE, pedagogy, didactics, as well as interpersonal interaction was just as important as the content that was taught. Therefore, basic knowledge in English, math, science, history, and social studies formed the core of the curriculum, but all centrally incorporated Black and Latinx culture. In addition, classes were small and informal, including discussions rather than lectures, as well as a lively exchange of ideas. This exchange was not only limited to the classroom but continued beyond.
 
-{% include inline_image.html collection='qatar' pid='obj2' %}
+{% include inline_image.html collection='maa' pid='maa026' %}
+[Excerpt - p. 4]
 [Previous caption: A part of ABLE's report detailing its intended curriculum.]
 
 <h2><strong>Black and White Relations</strong></h2>
@@ -53,12 +61,15 @@ In the late 1960s, the relationship between Black and white activists was a cont
 The following newspaper clipping from the West Side News, published on October 17, 1968, exemplifies this growing tension as it provides some insight into the opposing views of white and Black organizers on the philosophy, approach, and curriculum of ABLE.
 In the discussion depicted in the clipping, one of the white volunteers suggests William Styron's The Confessions of Nat Turner as reading for the academy’s curriculum. In reaction to Styron's 1967 published novel, numerous Black intellectuals responded in an edited volume by John Henrik Clarke criticizing Styron's representation of Nat Turner. They argued that Styron portrayed Turner as a coward and as prone to sexual assault of white women and thus reinforced a stereotypical picture of Black men. In the newspaper clipping, Vernon Douglas, one of the few Black members involved in the academy at the time, opposes this book for similar reason and adds that it reinforces negative stereotypes about Black people. He argues that the purpose of the academy should be to challenge these stereotypes and to teach Black and Puerto Rican children a different history.
 
+{% include inline_image.html collection='maa' pid='maa027' %}
+
 Additionally, a white member of the planning committee suggests to move the academy's curriculum towards vocational education, to which Vernon Douglas raises strong objections, arguing that this is what historically has happened to Black and Puerto Rican students--they end up in vocational programs instead of receiving rigorous academic education, thereby restricting their opportunities.
+
 This newspaper clipping then raises the question of whether or not white people are (or should be) in the position of deciding what Black and Puerto Rican children should learn reflecting some of the problems and limits inherent in white initiatives for Black advancement. This example ultimately highlights the importance of Black community members running the academy and actually having decision-making power.
 
 <h2><strong>Conclusion</strong></h2>
 
-{% include inline_image.html collection='qatar' pid='obj2' %}
+{% include inline_image.html collection='maa' pid='maa029' %}
 [previous caption: A newsletter written by ABLE's teachers and students describing the academy's ideals, goals, and accomplishments in both English and Spanish. The newsletter also has statements from former students as well as poetry samples from the summer's workshop.]
 
 As detailed in this teacher- and student-produced newsletter, students pursued research projects on their own neighborhood and background in order to understand broader structural conditions that influenced their lives. One of the students explained in this newsletter that “[ABLE] introduced us to a meaningful education that will someday help our Black and Puerto Rican people. Here at A.B.L.E. they have made us aware of our environment, its social make-up and its need for progress. Through our Community Research Program held at A.B.L.E., we have gathered an insight on the neighborhood's social and economic problems and how they influence the lives of the people. We, the student body of A.B.L.E., hope that by our work with the community, we will make the people within the vicinity change their outlook of it, just as A.B.L.E. has made us change our outlook by not putting the blame on one another but on the society that oppresses us.”

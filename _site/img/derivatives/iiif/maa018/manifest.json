@@ -1,47 +1,46 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "/hehptest/img/derivatives/iiif/maa018/manifest.json",
+  "@id": "/collection/hehp/img/derivatives/iiif/maa018/manifest.json",
   "@type": "sc:Manifest",
   "label": "maa018",
-  "thumbnail": "/hehptest/img/derivatives/iiif/images/maa018/full/250,/0/default.jpg",
+  "thumbnail": "/collection/hehp/img/derivatives/iiif/images/maa018/full/250,/0/default.jpg",
   "viewingDirection": "left-to-right",
   "viewingHint": "individuals",
   "sequences": [
     {
-      "@id": "/hehptest/img/derivatives/iiif/sequence/maa018.json",
+      "@id": "/collection/hehp/img/derivatives/iiif/sequence/maa018.json",
       "@type": "sc:Sequence",
       "canvases": [
         {
           "@type": "sc:Canvas",
-          "@id": "/hehptest/img/derivatives/iiif/canvas/maa018.json",
+          "@id": "/collection/hehp/img/derivatives/iiif/canvas/maa018.json",
           "label": "front",
           "width": 3503,
           "height": 4488,
-          "thumbnail": "/hehptest/img/derivatives/iiif/images/maa018/full/250,/0/default.jpg",
+          "thumbnail": "/collection/hehp/img/derivatives/iiif/images/maa018/full/250,/0/default.jpg",
           "images": [
             {
               "@type": "oa:Annotation",
-              "@id": "/hehptest/img/derivatives/iiif/annotation/maa018.json",
+              "@id": "/collection/hehp/img/derivatives/iiif/annotation/maa018.json",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "/hehptest/img/derivatives/iiif/images/maa018/full/full/0/default.jpg",
+                "@id": "/collection/hehp/img/derivatives/iiif/images/maa018/full/full/0/default.jpg",
                 "@type": "dcterms:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "/hehptest/img/derivatives/iiif/images/maa018",
+                  "@id": "/collection/hehp/img/derivatives/iiif/images/maa018",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
                 "width": 3503,
                 "height": 4488
               },
-              "on": "/hehptest/img/derivatives/iiif/canvas/maa018.json"
+              "on": "/collection/hehp/img/derivatives/iiif/canvas/maa018.json"
             }
           ]
         }
       ]
     }
   ],
-  "full": "/hehptest/img/derivatives/iiif/images/maa018/full/full/0/default.jpg",
-  "fullwidth": "/hehptest/img/derivatives/iiif/images/maa018/full/1140,/0/default.jpg"
+  "full": "/collection/hehp/img/derivatives/iiif/images/maa018/full/full/0/default.jpg"
 }
