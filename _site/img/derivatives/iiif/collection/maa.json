@@ -1,166 +1,166 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "/collection/hehp/img/derivatives/iiif/collection/maa.json",
+  "@id": "/hehp/img/derivatives/iiif/collection/maa.json",
   "@type": "sc:Collection",
   "label": "maa",
   "manifests": [
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa001/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa001/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa001"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa006/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa006/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa006"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa008/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa008/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa008"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa032/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa032/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa032"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa027/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa027/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa027"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa031/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa031/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa031"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa025/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa025/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa025"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa030/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa030/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa030"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa024/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa024/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa024"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa018/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa018/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa018"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa019/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa019/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa019"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa009/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa009/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa009"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa021/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa021/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa021"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa015/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa015/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa015"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa023/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa023/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa023"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa022/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa022/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa022"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa012/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa012/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa012"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa003/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa003/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa003"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa007/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa007/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa007"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa013/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa013/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa013"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa005/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa005/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa005"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa010/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa010/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa010"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa004/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa004/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa004"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa014/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa014/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa014"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa017/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa017/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa017"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa002/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa002/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa002"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa016/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa016/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa016"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa028/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa028/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa028"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa011/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa011/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa011"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa029/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa029/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa029"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa020/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa020/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa020"
     },
     {
-      "@id": "/collection/hehp/img/derivatives/iiif/maa026/manifest.json",
+      "@id": "/hehp/img/derivatives/iiif/maa026/manifest.json",
       "@type": "sc:Manifest",
       "label": "maa026"
     }

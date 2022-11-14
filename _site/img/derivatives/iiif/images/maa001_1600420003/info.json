@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "/collection/hehp/img/derivatives/iiif/images/maa001_1600420003",
+  "@id": "/hehp/img/derivatives/iiif/images/maa001_1600420003",
   "protocol": "http://iiif.io/api/image",
   "width": 3503,
   "height": 4488,
