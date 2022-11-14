@@ -2213,25 +2213,25 @@ h1, h2, h3, h4, h5, h6 { font-family: "Open Sans Light", "Verdana", "sans-serif"
 
 a { color: #801515; }
 
-a:hover { color: #d49a6a; text-decoration: none; }
+a:hover { color: #F3F3F3; text-decoration: none; }
 
 a.action-button { background-color: #801515; color: #fff; margin: 1rem; }
 
-a.action-button:hover { background-color: #440027; color: #ffd1aa; }
+a.action-button:hover { background-color: #841212; color: #9B9B9B; }
 
-.banner { background-color: #440027; color: #d49a6a; padding: 10px 2rem; font-family: "Open Sans Light", "Verdana", "sans-serif"; font-size: 1.2rem; }
+.banner { background-color: #841212; color: #F3F3F3; padding: 10px 2rem; font-family: "Open Sans Light", "Verdana", "sans-serif"; font-size: 1.2rem; }
 
 .navbar-brand { font-size: 1.4rem; }
 
 .subtitle { padding-bottom: 0.3125rem; }
 
-.banner a { color: #ffd1aa; }
+.banner a { color: #9B9B9B; }
 
 .banner a:hover { color: #fff; }
 
-.banner .dropdown-item { color: #440027; }
+.banner .dropdown-item { color: #841212; }
 
-.banner .dropdown-item:hover { color: #ffd1aa; }
+.banner .dropdown-item:hover { color: #9B9B9B; }
 
 .pagination .pagination-link { padding: 1rem; }
 
@@ -2283,7 +2283,7 @@ footer { height: 10vh; padding: 0.5rem; }
 
 .wax-parallax .parallax-caption a { color: #f7e4ef; font-weight: 700; text-decoration: none; }
 
-.wax-parallax .parallax-caption a:hover { text-decoration: underline; color: #440027; }
+.wax-parallax .parallax-caption a:hover { text-decoration: underline; color: #841212; }
 
 .navbar-toggler-icon { color: #d49a6a; font-size: 1.8rem; height: 1.2em; }
 
