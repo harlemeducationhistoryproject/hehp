@@ -12,4 +12,11 @@ The Harlem Education History Project is a collaborative effort to document and s
 
 This is a test site for the project's new website, still in development. 
 
-Access our book, [_Educating Harlem: A Century of Schooling and Resistance in a Black Community_](https://ansleyerickson.github.io/book/) as an open-access digital edition.
+Elements to follow: 
+Link to the digital edition of the book with teaching resources, via book cover image. 
+
+Links to the partner schools sites, via images. 
+
+Section that highlights collections - oral history, documents (images that link to gallery page)
+
+Section that highlights exhibits - (image that links to each?)
