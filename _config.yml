@@ -71,6 +71,8 @@ search:
 # submenu via `sub`.
 
 menu:
+  - label: "Book"
+    link: "book.harlemeducationhistory.org"
   - label: "Exhibits"
     sub:
       - label: "Barbara Wilson-Brooks and Her Harlem Community"
