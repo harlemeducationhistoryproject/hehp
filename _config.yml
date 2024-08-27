@@ -71,6 +71,9 @@ search:
 # submenu via `sub`.
 
 menu:
+
+  - label: "Book"
+    link: "book.harlemeducationhistory.org"
   - label: "Featured Schools"
     sub: 
     - label: Wadleigh High, JHS, and Secondary School
