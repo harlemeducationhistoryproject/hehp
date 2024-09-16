@@ -30,6 +30,6 @@ An independent Black school in Harlem, from the 1930s to the 1990s.
 
 ## [Our Book](www.book.harlemeducationhistory.org)
 
-Our 2019 book,[_Educating Harlem: A Century of Schooling and Resistance in a Black Community_ (Columbia University Press, 2019)](https://cup.columbia.edu/book/educating-harlem/9780231182218) documents Harlem schools - and local teachers and parents' efforts to make them what students deserved - across the 20th Century. Explore [a free digital edition of the book](www.book.harlemeducationhistory.org), with additional teaching and learning resources.
+Our 2019 book,[_Educating Harlem: A Century of Schooling and Resistance in a Black Community_ (Columbia University Press, 2019)](https://cup.columbia.edu/book/educating-harlem/9780231182218) documents Harlem schools - and local teachers and parents' efforts to make them what students deserved - across a hundred years. Explore [a free digital edition of the book](www.book.harlemeducationhistory.org), with additional teaching and learning resources.
 
 [![Cover image of Educating Harlem: A Century of Learning and Schooling in a Black Community](assets/cover.jpg)](https://book.harlemeducationhistory.org)
