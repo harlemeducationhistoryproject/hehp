@@ -1,46 +1,46 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "/hehp/img/derivatives/iiif/maa018/manifest.json",
+  "@id": "http://localhost:4000/hehp/img/derivatives/iiif/maa018/manifest.json",
   "@type": "sc:Manifest",
   "label": "maa018",
-  "thumbnail": "/hehp/img/derivatives/iiif/images/maa018/full/250,/0/default.jpg",
+  "thumbnail": "http://localhost:4000/hehp/img/derivatives/iiif/images/maa018/full/250,/0/default.jpg",
   "viewingDirection": "left-to-right",
   "viewingHint": "individuals",
   "sequences": [
     {
-      "@id": "/hehp/img/derivatives/iiif/sequence/maa018.json",
+      "@id": "http://localhost:4000/hehp/img/derivatives/iiif/sequence/maa018.json",
       "@type": "sc:Sequence",
       "canvases": [
         {
           "@type": "sc:Canvas",
-          "@id": "/hehp/img/derivatives/iiif/canvas/maa018.json",
+          "@id": "http://localhost:4000/hehp/img/derivatives/iiif/canvas/maa018.json",
           "label": "front",
           "width": 3503,
           "height": 4488,
-          "thumbnail": "/hehp/img/derivatives/iiif/images/maa018/full/250,/0/default.jpg",
+          "thumbnail": "http://localhost:4000/hehp/img/derivatives/iiif/images/maa018/full/250,/0/default.jpg",
           "images": [
             {
               "@type": "oa:Annotation",
-              "@id": "/hehp/img/derivatives/iiif/annotation/maa018.json",
+              "@id": "http://localhost:4000/hehp/img/derivatives/iiif/annotation/maa018.json",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "/hehp/img/derivatives/iiif/images/maa018/full/full/0/default.jpg",
+                "@id": "http://localhost:4000/hehp/img/derivatives/iiif/images/maa018/full/full/0/default.jpg",
                 "@type": "dcterms:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "/hehp/img/derivatives/iiif/images/maa018",
+                  "@id": "http://localhost:4000/hehp/img/derivatives/iiif/images/maa018",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
                 "width": 3503,
                 "height": 4488
               },
-              "on": "/hehp/img/derivatives/iiif/canvas/maa018.json"
+              "on": "http://localhost:4000/hehp/img/derivatives/iiif/canvas/maa018.json"
             }
           ]
         }
       ]
     }
   ],
-  "full": "/hehp/img/derivatives/iiif/images/maa018/full/full/0/default.jpg"
+  "full": "http://localhost:4000/hehp/img/derivatives/iiif/images/maa018/full/full/0/default.jpg"
 }
