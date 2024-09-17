@@ -78,7 +78,7 @@ menu:
     sub: 
     - label: Wadleigh High, JHS, and Secondary School
       link: https://www.wadleighhistory.org
-    - lable: The Modern School 
+    - label: The Modern School 
       link: https://www.modernschoolharlem.org
   - label: "Exhibits"
     sub:
@@ -88,9 +88,5 @@ menu:
         link: "/exhibits/juravich"
       - label: "A Microhistory of Community Activism in Harlem - The Academy for Black and Latin Education"
         link: "/exhibits/huang"
-  - label: "Browse"
-    link: "/collection/"
-  - label: "Search"
-    link: "/search/"
   - label: "About"
     link: "/about/"
